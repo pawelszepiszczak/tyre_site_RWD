@@ -1,0 +1,472 @@
+
+
+.ikona{
+	font-size:2em;
+
+}
+
+.granat{
+	background-color:#fff;
+	color:#404040;
+	text-align:center;
+
+}
+
+.pads{
+	padding-left:0;
+	padding-bottom:0.7em;
+}
+.linia{
+	padding:3em 0em;
+
+}
+.liniaa{
+	padding:0.5em 0em;
+	text-align:center;
+}
+.godzinyup{
+	background-color:rgba(255,255,255,.05);
+	padding-top:0.3em;
+
+	border-radius:10px;
+		font-family: 'Poppins', sans-serif;
+		font-size:2em;
+line-height:2em;
+		border-top:2px solid #b3b3b3;
+}
+.godzinydown{
+	background-color:rgba(255,255,255,.05);
+	padding: 0 0.2em;
+
+	border-radius:10px;
+		font-family: 'Poppins', sans-serif;
+		font-size:2em;
+height:3em;
+
+		border-bottom:2px solid #b3b3b3;
+
+}
+.godzinki{
+
+font-family: 'Poppins', sans-serif;
+font-size:3em;
+
+}
+.wiekszy{
+font-size:2em;
+margin:auto 0;
+	color:#000; 
+}
+.mniejszy{
+
+line-height:3em;
+
+}
+
+.ikonakolor{
+			color:#489aff;
+}
+.ikonalogo{
+	font-size:3em;
+}
+
+
+
+.posrodku{
+	text-align:center;
+	height:100%;
+}
+.tlologo{
+background-color:#fff;}
+
+.gora{
+	padding-top:20px;
+	padding-bottom:20px;
+	font-family: 'Poppins', sans-serif;
+	margin:auto;
+}
+
+
+
+.wysokosc1{
+	height:6em;
+}
+.glowne{
+	padding-left:0;
+	padding-right:0;
+
+}
+.wysokosc{
+	height:300px;
+}
+
+
+.bezmarginu{
+	margin:0;
+
+}
+.bezpaddingu{
+padding-left:0;
+padding-right:0;
+
+}
+
+body {
+  color:#595959;
+  background-color:#f2f2f2;
+
+}
+.mapa{
+		background-color:#595959;
+	color:#fff;
+}
+.kontaktowy{
+	
+	padding: 1em 2em;
+	color:#262626;
+
+}
+.kontakt{
+	font-family: 'Lato', sans-serif;
+display:block;
+	color:#00111a;
+	font-size:2em;
+	font-weight:900;
+	letter-spacing:0.2em;
+	margin-bottom:0.3em;
+	
+
+}
+.form-control{
+	max-width:70%;
+	
+	
+	
+}
+
+.imie{
+	margin-top:0.5em;
+}
+.tresckontakt{
+			background-color:rgba(255,255,255,1);
+			font-size:1em;
+			font-weight:400;
+			letter-spacing:0.1em;
+			}
+
+
+
+.navbar1 {
+  overflow: hidden;
+  background-color:#66a3ff;
+  position:absolute;
+  width:100%;
+
+
+
+}
+.centert strong{
+	font-size:2em;
+}
+.centert a{
+	color:#489aff;
+
+}
+.centert a:hover{
+	color:#003980;
+	text-decoration:none;
+
+}
+
+.ik{
+ font-size:3em;
+ background-color:#404040;
+ text-align:center;
+ color:#fff;
+ padding:0;
+}
+.just{
+	    text-align: justify;
+    text-justify: inter-word;
+}
+.marl{
+	margin-left:0;
+}
+.black{
+	background-color:#7eb8ff;
+	padding-left:0.4em;
+	color:#000;
+text-transform:uppercase;
+
+
+font-weight:700;
+}
+.brak{
+	padding-left:0;
+}
+.uslugi{
+	margin-top:5em;
+
+}
+.uslugimniej{
+	margin-top:0em;
+}
+.parallax { 
+    /* The image used */
+    background-image: url("../gfx/car.jpg");
+
+    /* Full height */
+    height: 300px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallax1{
+    /* The image used */
+    background-image: url("../gfx/car.jpg");
+	
+
+    /* Set a specific height */
+    min-height: 250px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+	background-size:cover;
+  
+}
+.ramka{	background-color:rgba(0,0,0,0.2);}
+#uslugi{
+	padding-top:2em;
+		padding-bottom:2em;
+}
+#godziny{
+	padding-top:2em;
+	padding-bottom:2em;
+}
+.navbar1 a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 1.5em 1em;
+  text-decoration: none;
+  font-size: 1.2em;
+  font-weight:700;
+
+
+  
+}
+
+
+#navbar1 a:hover {
+  background-color: #65aaff;
+  color: black;
+}
+
+#navbar1 a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+
+
+.sticky {
+  width: 100%;
+  background-color:rgba(0,11,26,0.8);
+  z-index:9999;
+
+  position:fixed;
+  top:0;
+
+
+  
+}
+
+.stickys {
+  padding:0;
+  height:0;
+
+}
+
+
+
+.sticky a {
+
+  padding: 0.5em 1em;
+font-size:1em;
+
+  
+}
+
+.ion-ios-telephone{
+	padding-right:0.3em;
+	font-size:2em;
+}
+.ion-email{
+	padding-right:0.3em;
+}
+
+
+@media only screen and (max-width: 1199px){
+	.mobi{
+		padding-left:0;
+	}
+	.godzinki{
+		font-size:1.5em;
+	}
+}
+@media only screen and (max-width: 991px){
+.nazwa{
+	padding-left:0;
+	padding-right:0;
+}
+.mobi{
+	display:none;
+}
+
+
+.ion-ios-telephone{
+	font-size:1.5em;
+}
+.centert strong{
+	font-size:1.5em;
+}
+.navbar1 a {
+
+  font-weight:700;  
+}
+.nav{
+	line-height:2em;
+}
+.uslugi{
+	max-width:98%;
+}
+.ik{
+	 font-size:2em;
+}
+
+}
+
+@media only screen and (max-width: 767px){
+.center{
+	text-align:center;
+	padding-bottom:0;
+}
+.centerr{
+	text-align:center;
+	padding-top:0;
+}
+.cente{
+	padding:0;
+}
+.centes{
+	padding:0;
+	padding-bottom:0;
+	text-align:left;	
+}
+.centert{
+	text-align:center;
+	padding-bottom:0;
+	padding-top:0;
+	margin-top:0;
+}
+.ion-ios-location{
+	float:right;
+}
+
+#dojazd{
+	display:inline;
+	padding-left:0px;
+
+}
+.navbar1 a {
+
+
+  font-size: 1.3em;
+  font-weight:700;
+
+  
+}
+.godzinyup{
+	font-size:1em;
+}
+.godzinydown{
+	font-size:1em;
+}}
+@media only screen and (max-width: 575px){
+.n{
+	display:none;
+}
+.gora{
+	margin:0;
+}
+.godzinyup{
+	font-size:1.5em;
+		max-width:80%;
+		margin:0 auto;
+}
+.godzinydown{
+	font-size:1.5em;
+	max-width:80%;
+			margin:0.2em auto;
+}
+.centes{
+	padding:0;
+	padding-bottom:0;
+	text-align:center;	
+}
+
+.ikona{
+	font-size:1em;
+
+}
+.ion-ios-location{
+	display:none;
+}
+.ion-ios-telephone{
+	font-size:2em;
+}
+.niem{
+	padding-top:0;
+}
+.centert strong{
+	font-size:2em;
+}
+.centerr span{
+	font-size:2em;;
+}
+.logonapis{
+	padding-bottom:0;
+}
+#position-saver{
+	display:none;
+}
+.uslugi{
+	margin-top:0;
+}
+.linia{
+	padding:0;
+}
+.pads{
+	padding-left:15px;
+
+}
+.tlologo{
+	padding-bottom:1em;
+}
+.nie{
+	padding-top:0;
+}
+.form-control{
+	max-width:100%;
+	
+	
+	
+}
+}
+
+
